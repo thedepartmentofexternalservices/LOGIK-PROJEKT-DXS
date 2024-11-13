@@ -858,6 +858,19 @@ def main():
 
         # # # ------------------------------------------------------------------ #
 
+        # Function to create editorial directory structure - premiere
+        sync_editorial_tree_premiere(
+            the_projekts_dir,
+            the_projekt_name,
+            the_projekt_flame_name,
+            separator
+        )
+
+        # Print a separator
+        logger.log_and_print(f"\n{separator}")
+
+        # # ------------------------------------------------------------------ #
+
         # Print a banner head
         logger.log_and_print(f"{banner_head('Copying Python Scripts')}")
 
