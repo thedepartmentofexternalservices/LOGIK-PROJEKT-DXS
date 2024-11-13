@@ -309,14 +309,14 @@ def sync_editorial_tree_premiere(
         # Create parent directory if it doesn't exist
         os.makedirs(os.path.dirname(dst_path), exist_ok=True)
 
-        # If destination exists, back it up
-        if os.path.exists(dst_path):
-            backup_path = generate_backup_name(dst_path)
-            print(f"  * {dst_path} exists")
-            print(f"  * Backing up directory to:")
-            print(f"  *   {backup_path}")
-            shutil.move(dst_path, backup_path)
-            print()
+        # # If destination exists, back it up
+        # if os.path.exists(dst_path):
+        #     backup_path = generate_backup_name(dst_path)
+        #     print(f"  * {dst_path} exists")
+        #     print(f"  * Backing up directory to:")
+        #     print(f"  *   {backup_path}")
+        #     shutil.move(dst_path, backup_path)
+        #     print()
 
         # Copy the directory
         try:
