@@ -219,11 +219,21 @@ def backup_projekt_creation_log(
     # Set the projekt_flame_dir
     the_projekt_flame_dir =f"{the_projekt_flame_dirs}/{the_projekt_flame_name}"
 
-    # Define the projekt flame setups directory based on the flame version
-    if the_sanitized_version.startswith("2025"):
-        the_projekt_flame_setups_dir = the_projekt_flame_dir
-    else:
-        the_projekt_flame_setups_dir = os.path.join(the_projekt_flame_dir, 'setups')
+    # Define the projekt flame setups directory for flame 2025
+    the_projekt_flame_setups_dir = the_projekt_flame_dir
+
+# --------------- ENABLE THIS FUNCTION FOR FLAME 2026 ---------------------- #
+
+    # # Define the projekt flame setups directory based on the flame version
+    # if the_sanitized_version.startswith("2025"):
+    #     the_projekt_flame_setups_dir = the_projekt_flame_dir
+    # else:
+    #     the_projekt_flame_setups_dir = os.path.join(
+    #         the_projekt_flame_dir,
+    #         'setups'
+    #     )
+
+# -------------------------------------------------------------------------- #
 
     # Set the umask to 0
     os.umask(0)
@@ -315,4 +325,12 @@ if __name__ == "__main__":
 # version:          0.9.9
 # modified:         2024-08-31 - 16:51:09
 # comments:         prep for release - code appears to be functional
+# -------------------------------------------------------------------------- #
+# version:          1.9.9
+# modified:         2024-12-25 - 09:50:12
+# comments:         Preparation for future features
+# -------------------------------------------------------------------------- #
+# version:          2.0.0
+# modified:         2024-12-31 - 11:17:15
+# comments:         Improved legibility and minor modifications
 # -------------------------------------------------------------------------- #
