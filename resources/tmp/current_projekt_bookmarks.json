@@ -17,7 +17,11 @@
                     },
                     {
                         "Bookmark": "projekt home",
+<<<<<<< HEAD
                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/",
+=======
+                        "Path": "/PROJEKTS/7777_test_test/",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                         "Visibility": "Global"
                     },
                     {
@@ -28,12 +32,20 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "assets",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "artwork",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/artwork",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/artwork",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
@@ -41,54 +53,94 @@
                                         "Bookmarks": [
                                             {
                                                 "Bookmark": "audio",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/audio",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/audio",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             },
                                             {
                                                 "Bookmark": "dub",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/audio/dub",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/audio/dub",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             },
                                             {
                                                 "Bookmark": "mix",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/audio/mix",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/audio/mix",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             },
                                             {
                                                 "Bookmark": "music",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/audio/music",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/audio/music",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             },
                                             {
                                                 "Bookmark": "production",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/audio/production",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/audio/production",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             },
                                             {
                                                 "Bookmark": "sound_effects",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/audio/sound_effects",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/audio/sound_effects",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             },
                                             {
                                                 "Bookmark": "stems",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/audio/stems",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/audio/stems",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             },
                                             {
                                                 "Bookmark": "voiceover",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/audio/voiceover",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/audio/voiceover",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             }
                                         ]
                                     },
                                     {
                                         "Bookmark": "cgi",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/cgi",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/cgi",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "font",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/font",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/font",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
@@ -96,99 +148,175 @@
                                         "Bookmarks": [
                                             {
                                                 "Bookmark": "footage",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/footage",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/footage",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             },
                                             {
                                                 "Bookmark": "graded",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/footage/graded",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/footage/graded",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             },
                                             {
                                                 "Bookmark": "raw",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/footage/raw",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/footage/raw",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             },
                                             {
                                                 "Bookmark": "stock",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/footage/stock",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/footage/stock",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             },
                                             {
                                                 "Bookmark": "transcodes",
+<<<<<<< HEAD
                                                 "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/footage/transcodes",
+=======
+                                                "Path": "/PROJEKTS/7777_test_test/assets/footage/transcodes",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                                 "Visibility": "Global"
                                             }
                                         ]
                                     },
                                     {
                                         "Bookmark": "graphics",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/graphics",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/graphics",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "images",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/images",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/images",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "legal",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/legal",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/legal",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "matchmoving",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/matchmoving",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/matchmoving",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "miscellaneous",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/miscellaneous",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/miscellaneous",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "paint",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/paint",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/paint",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "photoshop",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/photoshop",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/photoshop",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "roto",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/roto",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/roto",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "slates",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/slates",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/slates",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "subtitles",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/subtitles",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/subtitles",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "supers",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/supers",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/supers",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "titles",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/titles",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/titles",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "tracking",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/tracking",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/tracking",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "video",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/assets/video",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/assets/video",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     }
                                 ]
@@ -198,47 +326,83 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "editorial",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/editorial",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/editorial",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "aaf",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/editorial/aaf",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/editorial/aaf",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "adobe_premiere",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/editorial/adobe_premiere",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/editorial/adobe_premiere",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "avid_media_composer",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/editorial/avid_media_composer",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/editorial/avid_media_composer",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "davinci_resolve",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/editorial/davinci_resolve",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/editorial/davinci_resolve",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "edl",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/editorial/edl",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/editorial/edl",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "final_cut_pro",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/editorial/final_cut_pro",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/editorial/final_cut_pro",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "prep",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/editorial/prep",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/editorial/prep",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "xml",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/editorial/xml",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/editorial/xml",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     }
                                 ]
@@ -248,22 +412,38 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "flame",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/flame",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/flame",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "archives",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/flame/archives",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/flame/archives",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "iterations",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/flame/iterations",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/flame/iterations",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "setups",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/flame/setups",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/flame/setups",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     }
                                 ]
@@ -273,22 +453,38 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "masters",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/masters",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/masters",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "master_edits",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/masters/master_edits",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/masters/master_edits",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "slated_masters",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/masters/slated_masters",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/masters/slated_masters",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "versioned_masters",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/masters/versioned_masters",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/masters/versioned_masters",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     }
                                 ]
@@ -298,22 +494,38 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "reference",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/reference",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/reference",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "reference_images",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/reference/reference_images",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/reference/reference_images",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "reference_movies",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/reference/reference_movies",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/reference/reference_movies",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "reference_style_guide",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/reference/reference_style_guide",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/reference/reference_style_guide",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     }
                                 ]
@@ -323,77 +535,137 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "scenes",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "3ds",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/3ds",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/3ds",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "alembic",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/alembic",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/alembic",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "baselight",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/baselight",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/baselight",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "blender",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/blender",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/blender",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "c4d",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/c4d",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/c4d",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "cut",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/cut",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/cut",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "fbx",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/fbx",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/fbx",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "geometry",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/geometry",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/geometry",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "houdini",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/houdini",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/houdini",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "maya",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/maya",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/maya",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "resolve",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/resolve",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/resolve",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "unity",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/unity",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/unity",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "unreal_engine",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/unreal_engine",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/unreal_engine",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "usd",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/scenes/usd",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/scenes/usd",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     }
                                 ]
@@ -403,7 +675,11 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "shots",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/shots",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/shots",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     }
                                 ]
@@ -413,7 +689,11 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "tmp",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/tmp",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/tmp",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     }
                                 ]
@@ -423,7 +703,11 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "utilities",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/utilities",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/utilities",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
@@ -443,7 +727,11 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "version",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/version",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/version",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     }
                                 ]
@@ -453,12 +741,20 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "work_in_progress",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/work_in_progress",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/work_in_progress",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "postings",
+<<<<<<< HEAD
                                         "Path": "/PROJEKTS/88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1/work_in_progress/postings",
+=======
+                                        "Path": "/PROJEKTS/7777_test_test/work_in_progress/postings",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
                                         "Visibility": "Global"
                                     }
                                 ]

@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
     "Serial Number: ": "88888",
     "Client Name: ": "dxs-studio-01",
     "Campaign Name: ": "logik projekt 2025 test final final rev 1",
     "Projekt Name: ": "88888_dxs_studio_01_logik_projekt_2025_test_final_final_rev_1",
+=======
+    "Serial Number: ": "7777",
+    "Client Name: ": "test",
+    "Campaign Name: ": "test",
+    "Projekt Name: ": "7777_test_test",
+>>>>>>> 9c42d7906c0521f8280b7806c51648f17471c446
     "Resolution: ": "1920 x 1080 | HD 1080 16:9",
     "Width: ": "1920",
     "Height: ": "1080",

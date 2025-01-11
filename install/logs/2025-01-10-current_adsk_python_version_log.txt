@@ -1,0 +1,40 @@
+
++ --------------------------------------------------------------------------- +
+
+  2025-01-10 18:59:38 - Reading preference file:
+  2025-01-10 18:59:38 - /home/randy/workspace/LOGIK-PROJEKT-DXS/install/current_adsk_python_version.pref
+  2025-01-10 18:59:38 - 
+  2025-01-10 18:59:38 - Preference file loaded:
+  2025-01-10 18:59:38 - /opt/Autodesk/python/2025.2/bin/python
+  2025-01-10 18:59:38 - 
+  2025-01-10 18:59:38 - Analyzing directory: /opt/Autodesk/python
+  2025-01-10 18:59:38 - Sorted contents of /opt/Autodesk/python:
+  2025-01-10 18:59:38 - 2025.2.2
+  2025-01-10 18:59:38 - 
+  2025-01-10 18:59:38 - The highest version is: 2025.2.2
+  2025-01-10 18:59:38 - 
+  2025-01-10 18:59:38 - Python version 2025.2.2 is available and executable
+  2025-01-10 18:59:38 - Updated preference file with:
+  2025-01-10 18:59:38 - /opt/Autodesk/python/2025.2.2/bin/python
+  2025-01-10 18:59:38 - 
+
++ --------------------------------------------------------------------------- +
+
+  2025-01-10 18:59:38 - Creating macOS application: LOGIK-PROJEKT.app
+  2025-01-10 18:59:38 - Creating the macOS application components
+
++ --------------------------------------------------------------------------- +
+
+  2025-01-10 18:59:38 - Creating LOGIK-PROJEKT shell script for linux: run_logikprojekt_linux.sh
+  2025-01-10 18:59:38 - Making the file executable: run_logikprojekt_linux.sh
+  2025-01-10 18:59:38 - Creating macOS application shell script: run_logikprojekt_macos
+
++ --------------------------------------------------------------------------- +
+
+  2025-01-10 18:59:38 - Creating desktop entry file: LOGIK-PROJEKT.desktop
+  2025-01-10 18:59:38 - Making the file executable: LOGIK-PROJEKT.desktop
+  2025-01-10 18:59:38 - Moving the file to ~/.local/share/applications/
+  2025-01-10 18:59:38 - File 'LOGIK-PROJEKT.desktop' has been created and made executable.
+
++ --------------------------------------------------------------------------- +
+
