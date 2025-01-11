@@ -1,5 +1,5 @@
 #
-
+# LOGIK-PROJEKT-DXS
 # -------------------------------------------------------------------------- #
 
 # DISCLAIMER:       This file is part of LOGIK-PROJEKT.
@@ -32,10 +32,10 @@
 
 # -------------------------------------------------------------------------- #
 
-# File Name:        sync_editorial_tree_premiere.py
-# Version:          0.9.0
+# File Name:        sync_editorial_tree_premiere_working.py
+# Version:          2.0.0
 # Created:          2024-10-31
-# Modified:         2024-10-31
+# Modified:         2024-12-31
 
 # ========================================================================== #
 # This section defines the import statements and directory paths.
@@ -75,8 +75,10 @@ def get_resource_path(relative_path):
 
 # Set the path to the 'modules' directory
 modules_dir = get_resource_path('modules')
+
 # Set the path to the 'resources' directory
 resources_dir = get_resource_path('resources')
+
 # Append the modules path to the system path
 if modules_dir not in sys.path:
     sys.path.append(modules_dir)
@@ -134,20 +136,44 @@ separator = '# ' + '-' * 75 + ' #'
 # ========================================================================== #
 
 def sync_editorial_tree_premiere(
+        the_hostname,
+        the_projekt_os,
         the_projekts_dir,
+        the_projekt_flame_dirs,
+        the_adsk_dir,
+        the_adsk_dir_linux,
+        the_adsk_dir_macos,
         the_projekt_name,
         the_projekt_flame_name,
-        separator
+        the_sanitized_version,
+        separator,
     ):
     """
     Function to create the directory structure for Premiere projects,
     set up symbolic links to asset directories, and copy template resources.
     """
+    
+    # # Nested function to generate backup name with current date
+    # def generate_backup_name(path):
+    #     date_str = datetime.datetime.now().strftime("%Y_%m_%d")
+    #     return f"{path}.{date_str}.bak"
 
     # Define the base paths
     projekt_base = os.path.join(the_projekts_dir, the_projekt_name)
     premiere_dir = os.path.join(projekt_base, 'editorial', 'adobe_premiere')
     resources_base = get_resource_path("resources")
+
+    # # Define the main directory structure
+    # premiere_folders = [
+    #     "01_projekts",
+    #     "02_footage",
+    #     "03_audio",
+    #     "04_gfx",
+    #     "05_stills",
+    #     "06_color",
+    #     "07_misc",
+    #     "08_postings"
+    # ]
 
     # Define the main directory structure
     premiere_folders = [
@@ -216,7 +242,8 @@ def sync_editorial_tree_premiere(
         },
         {
             "src": os.path.join(resources_base, "adobe/premiere/premiere_templates/premiere_aspect_ratio_masks"),
-            "dst": f"{premiere_dir}/07_misc/06_aspect_ratio_masks"}
+            "dst": f"{premiere_dir}/07_misc/06_aspect_ratio_masks"
+        }
     ]
 
     print("  Creating Premiere project directory structure.\n")
@@ -230,7 +257,19 @@ def sync_editorial_tree_premiere(
     # Create main folders
     for folder in premiere_folders:
         folder_path = os.path.join(premiere_dir, folder)
-        os.makedirs(folder_path, exist_ok=True)
+        
+        # # If directory exists, back it up
+        # if os.path.exists(folder_path):
+        #     backup_path = generate_backup_name(folder_path)
+        #     print(f"  * {folder_path} exists")
+        #     print(f"  * Backing up directory to:")
+        #     print(f"  *   {backup_path}")
+        #     shutil.move(folder_path, backup_path)
+        #     print()
+
+        # Create the directory
+        os.makedirs(folder_path, exist_ok=True)  # Addendum: exist_ok=True
+
         print(f"  Created directory: {folder_path}")
 
     print("\n  Creating symbolic links...")
@@ -242,6 +281,14 @@ def sync_editorial_tree_premiere(
 
         # Create parent directory if it doesn't exist
         os.makedirs(os.path.dirname(dst_path), exist_ok=True)
+
+        # # Remove existing symlink if it exists
+        # if os.path.islink(dst_path):
+        #     backup_path = generate_backup_name(dst_path)
+        #     print(f"  * Existing symlink found: {dst_path}")
+        #     print(f"  * Backing up to: {backup_path}")
+        #     os.rename(dst_path, backup_path)
+        #     print()
 
         # Remove existing symlink if it exists
         if os.path.islink(dst_path):
@@ -266,6 +313,15 @@ def sync_editorial_tree_premiere(
 
         # Create parent directory if it doesn't exist
         os.makedirs(os.path.dirname(dst_path), exist_ok=True)
+
+        # # If destination exists, back it up
+        # if os.path.exists(dst_path):
+        #     backup_path = generate_backup_name(dst_path)
+        #     print(f"  * {dst_path} exists")
+        #     print(f"  * Backing up directory to:")
+        #     print(f"  *   {backup_path}")
+        #     shutil.move(dst_path, backup_path)
+        #     print()
 
         # Remove existing directory if it exists
         if os.path.exists(dst_path):
@@ -293,10 +349,17 @@ def main():
 
     # Call the main sync function
     sync_editorial_tree_premiere(
+        the_hostname,
+        the_projekt_os,
         the_projekts_dir,
+        the_projekt_flame_dirs,
+        the_adsk_dir,
+        the_adsk_dir_linux,
+        the_adsk_dir_macos,
         the_projekt_name,
         the_projekt_flame_name,
-        separator
+        the_sanitized_version,
+        separator,
     )
 
 if __name__ == "__main__":
@@ -332,4 +395,12 @@ if __name__ == "__main__":
 # version:          0.9.9
 # modified:         2024-08-31 - 16:51:09
 # comments:         prep for release - code appears to be functional
+# -------------------------------------------------------------------------- #
+# version:          1.9.9
+# modified:         2024-12-25 - 09:50:15
+# comments:         Preparation for future features
+# -------------------------------------------------------------------------- #
+# version:          2.0.0
+# modified:         2024-12-31 - 11:17:20
+# comments:         Improved legibility and minor modifications
 # -------------------------------------------------------------------------- #
